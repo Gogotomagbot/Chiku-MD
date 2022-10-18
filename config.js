@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['919006765023']
-global.OwnerNumber = ['919006765023']
-global.ownertag = ['919006765023']
-global.BotName = "chiku"
-global.packname = "chiku-bot"
-global.author = "By: Ayush"
-global.OwnerName = "Ayush"
+global.Owner = ['14404442449']
+global.OwnerNumber =['14404442449']
+global.ownertag = ['14404442449']
+global.BotName = "gogo"
+global.packname = "gogo-bot"
+global.author = "By:"jokxrr"
+global.OwnerName = "jokxrr"
 global.BotSourceCode = "https://github.com/Ayush-pandey-u/Chiku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8"
+global.SupportGroupLink = "https://chat.whatsapp.com/FrUERWAA4UZ7wWO6bfHcXp"
 global.sessionName = "session"
 
 // Prefix //
